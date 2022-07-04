@@ -1,4 +1,4 @@
-function verificaPares(a){
+    function verificaPares(a){
     if(!a.length)
         console.log('-1')
     
